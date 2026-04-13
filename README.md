@@ -1,2 +1,9 @@
 # analise_brasileirao2024
-Análise dos dados do campeonato brasileiro de futebol (2003-2024 ) em Python com pandas e matplotlib para gerar insights e visualizações (gráficos). 
+ 
+## Insights
+- Times do topo dominam pontuação
+- Zona de classificação bem definida
+
+## Tecnologias
+- Pandas
+- Matplotlib
