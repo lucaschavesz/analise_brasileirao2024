@@ -1,4 +1,4 @@
-# analise_brasileirao2024
+# Análise de dados com Pandas: Brasileirão 2024
  
 ## Insights
 - Times do topo dominam pontuação
